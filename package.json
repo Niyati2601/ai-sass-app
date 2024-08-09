@@ -16,7 +16,7 @@
     "clsx": "^2.1.1",
     "lucide-react": "^0.424.0",
     "mongodb": "^6.8.0",
-    "moongoose": "0.0.5",
+    "mongoose": "^8.5.2",
     "next": "14.2.5",
     "qs": "^6.13.0",
     "react": "^18",
